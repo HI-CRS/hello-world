@@ -1,2 +1,2 @@
 # hello-world
-new to this
+In the processs of learning Python.
